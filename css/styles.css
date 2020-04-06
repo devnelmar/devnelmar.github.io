@@ -201,8 +201,8 @@ ol, ul{
 }
 
 .contact{
-  background-color: #056fff;
-  color: white;
+  background-color: #EFF8FB;
+  color: black;
   height: 150px;
   display: flex;
   align-items: center;
@@ -256,7 +256,7 @@ ol, ul{
   display: block;
   margin-top: 10px;
   background: transparent;
-  color: white;
+  color: black;
   width: 100px;
   border-radius: 5px;
   padding: 10px 0;
